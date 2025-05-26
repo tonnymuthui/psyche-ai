@@ -31,11 +31,11 @@ const LandingPage = () => {
     },
     {
       quote: "I've been tracking my depression symptoms for months now, and seeing the progress is incredibly motivating.",
-      author: "Jamie K."
+      author: "Leakey K."
     },
     {
       quote: "The guided recommendations feel personalized and thoughtful. It's like having a wellness coach in your pocket.",
-      author: "Sam R."
+      author: "Mike Biggie."
     }
   ];
 
